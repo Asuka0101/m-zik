@@ -1,6 +1,6 @@
 module.exports = {
         px: '!',
-        playing: 'Asuka ❤️ Müzik Botu',
+        playing: 'Umut Bayraktar ❤️ Müzik Botu',
 
     opt: {
         DJ: {
